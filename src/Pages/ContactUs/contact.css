@@ -1,0 +1,154 @@
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+    background-color: #f4f4f4;
+    gap: 5rem;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.imagec {
+
+    width: 800px;
+    height: 350px;
+
+}
+
+.imaget {
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.tamas {
+    display: flex;
+}
+
+.aks {
+
+    background-color: #2d3c53;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding-right: 65px;
+
+
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    background-color: #f99d1c;
+    color: #fff;
+    gap: 15px;
+    padding-top: 7px;
+    margin: 0 30px 0 30px;
+    border-radius: 7px;
+
+}
+
+
+
+.ertebat {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    padding-top: 40px;
+    padding-right: 6px;
+    padding-left: 15px;
+    max-width: 18rem;
+    background-color: #2d3c53;
+    color: #fff;
+}
+
+.map-section .gmap-frame #gmap_canvas {
+    height: 86vh;
+    width: 120%;
+    padding-right: 15px;
+    border-radius: 5px;
+}
+
+.mapp-section .gmapp-frame #gmapp_canvas {
+    padding-right: 83px;
+    padding-left: 5px;
+    height: 86vh;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.icon-ertebate {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    flex-direction: row-reverse;
+    gap: 12px;
+}
+
+.whatsapp {
+    width: 50px;
+    height: 40px;
+    background-color: #66758b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+
+}
+
+.whatsapp:hover {
+    cursor: pointer;
+    background-color: #f99d1c;
+}
+
+.icon-telegram {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: #66758b;
+    border-radius: 7px;
+
+}
+
+.telegram {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 40px;
+
+}
+
+.telegram:hover {
+    cursor: pointer;
+    background-color: #f99d1c;
+    border-radius: 7px;
+}
+
+.icon-facebook {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: #66758b;
+    border-radius: 7px;
+}
+
+.facebook {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 40px;
+}
+
+.facebook:hover {
+    cursor: pointer;
+    background-color: #f99d1c;
+    border-radius: 7px;
+}

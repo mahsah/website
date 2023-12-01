@@ -1,0 +1,80 @@
+.sofi {
+    display: flex;
+    align-items: flex-start;
+    color: #fff;
+    max-width: 60rem;
+    line-height: 30px;
+    padding-right: 140px;
+    padding-top: 105px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+
+.mtn-moarefi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #2e3d54;
+
+}
+
+
+
+
+.tolid {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+}
+
+.imglogo {
+    width: 350px;
+    height: 350px;
+    margin-top: 85px;
+}
+
+
+.imgtolid {
+    width: 250px;
+    height: 230px;
+    margin-top: 40px;
+    margin-right: 85px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+
+.koliat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.tolis {
+    color: #f26422;
+    font-weight: bold;
+    margin-right: 80px;
+}
+
+
+
+.link:link {
+    color: #f26422;
+    text-decoration: none;
+}
+
+.imgtolid:hover {
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+
+}
+
+.imagef {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 90px;
+}

@@ -1,0 +1,94 @@
+.Tolidat {
+    background-color: #f7f7f7;
+    width: 1250px;
+    margin-right: 40px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+    padding-left: 30px;
+}
+
+.onvan {
+    background-color: #f26422;
+    width: 100%;
+    height: 174px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.onvan p {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.anvae-tablo {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+.tablo-tolidat {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-right: 60px;
+    margin-top: 50px;
+
+}
+
+.controlt {
+    padding-right: 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 47px;
+    margin-left: -40px;
+}
+
+.atccm {
+    padding-left: 70px;
+}
+
+.dormotort {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 34px;
+    margin-right: 105px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.anvaetablobargh {
+    display: flex;
+    flex-direction: row;
+    margin-right: 60px;
+    margin-top: 70px;
+
+}
+
+.tablobargh {
+    padding-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.anvae-tablobrg {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.bargh {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-right: 100px;
+    line-height: 40px;
+    font-size: 16px;
+    margin-left: 60px;
+
+}

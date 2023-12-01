@@ -1,0 +1,183 @@
+.akharin {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-top: 50px;
+    padding-right: 110px;
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 50px;
+}
+
+
+.address-sherkat {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    max-width: 285px;
+
+
+}
+
+.daftar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-right: 20px;
+    gap: 10px;
+
+
+}
+
+.smt {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 25rem;
+    padding-right: 35px;
+    line-height: 28px;
+}
+
+.neshani-karkhone {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-right: 18px;
+    gap: 10px;
+    padding-top: 15px;
+    line-height: 33px;
+}
+
+.karkhone {
+    max-width: 20rem;
+    padding-right: 35px;
+}
+
+.code-posti {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+}
+
+.code {
+    padding-right: 40px;
+}
+
+.hafte {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 5px;
+    padding-right: 10px;
+    padding-top: 15px;
+}
+
+.day {
+    padding-right: 30px;
+}
+
+
+.nagh {
+    display: flex;
+    flex-direction: row;
+}
+
+.dast-resi {
+    margin-right: 95px;
+
+
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+
+.listtt {
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+li {
+    padding-top: 10px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.tm {
+    text-decoration: none !important;
+    color: #fff;
+
+
+}
+
+.rowd {
+    display: flex;
+    flex-direction: row !important;
+}
+
+.tm:hover {
+    color: #f99d1c !important;
+    cursor: pointer;
+}
+
+
+
+
+.tms-bama {
+    padding-right: 100px;
+
+
+}
+
+.telephone {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-top: 10px;
+}
+
+.shomare {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-right: 13px;
+}
+
+.shabake-ejtemaee {
+    padding-right: 117px;
+}
+
+.dar {
+    padding-left: 40px;
+}
